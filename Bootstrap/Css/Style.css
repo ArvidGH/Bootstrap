@@ -1,0 +1,40 @@
+/*Byter färg på rubriken*/
+h1 {
+    color: rgb(209, 107, 209);
+}
+/*Lägger all text om orden i mitten*/
+.Text {
+    text-align: center;
+}
+/*En massa färger*/
+.blue {
+    background-color: blue;
+}
+.purple {
+    background-color: purple;
+}
+.green {
+    background-color: green;
+}
+.red {
+    background-color: red;
+}
+/*Textfärg och storlek*/
+p {
+    color: white;
+    margin-right: 10em;
+    margin-left: 10em;
+}
+/*Bildstorlekar*/
+.Pic1 {
+    max-width: 20em;
+    max-height: 10em;
+}
+.Pic2 {
+    max-width: 25em;
+    max-height: 15em;
+}
+.PicT {
+    max-width: 90em;
+    max-height: 60em;
+}
